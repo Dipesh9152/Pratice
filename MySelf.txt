@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 My name is Dipesh,
 
 I like cricket to play
+=======
+My name is Dipesh
+
+2nd branch
+
+My Name is Saurabh
+>>>>>>> SecondBranch
